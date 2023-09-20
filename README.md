@@ -51,7 +51,9 @@
 &emsp;
 
 <hr>
+
 ## 🤝 Connect with me
+---------------------
 <p align="left">
 	<a href="mailto:ibrahimimtiaz59@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/ibrahim-abdullah-498362247/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
