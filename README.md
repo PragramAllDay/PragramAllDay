@@ -6,7 +6,7 @@
 <Br>
 <h1>About Me! 😎</h1>
 
-- 🏫: I'm a 14-year educated individual.
+- 🏫: I'm a Computer Science Graduate.
 - 🔭: I’m currently working on many small Web projects.
 - 🌱: I’m currently learning cloud Services. 🧠💻🤖
 - 🤔: I’m looking for help with anything I am currently learning! 😅
