@@ -12,6 +12,7 @@
 - 🤔: I’m looking for help with anything I am currently learning! 😅
 - 💬: Ask me about Web flow, React, Node, Next JS. 📊📈🤖🧠
 - ⚡  Fun fact: I play Dota Two
+-  📫 Reach out to me at: <a href="ibrahimimtiaz59@gmail.com">ibrahimimtiaz59@gmail.com</a>
   
 <hr>
 
